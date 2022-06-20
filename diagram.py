@@ -2,7 +2,7 @@
 
 import pydot
 
-import apps.examples.dice
+import apps.kmeans
 
 from engine.app import app
 

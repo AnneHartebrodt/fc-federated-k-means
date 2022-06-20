@@ -3,7 +3,7 @@ from bottle import Bottle
 from api.http_ctrl import api_server
 from api.http_web import web_server
 
-import apps.examples.dice
+import apps.kmeans.app
 
 from engine.app import app
 

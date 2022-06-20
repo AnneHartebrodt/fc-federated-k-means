@@ -5,3 +5,6 @@ numpy
 bios
 pydot
 pyyaml
+scipy
+pandas
+sklearn
